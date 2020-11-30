@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "641867859798",
+    "firebase_url": "https://datbase-90b90.firebaseio.com",
+    "project_id": "datbase-90b90",
+    "storage_bucket": "datbase-90b90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641867859798:android:94f92b707c8b8ee455f8f7",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641867859798-eavj2o9qr724ag2raje0fd16lujblbf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_commerce",
+            "certificate_hash": "1aedc1bb670a064dbda442da0a90a7463bad7a8f"
+          }
+        },
+        {
+          "client_id": "641867859798-11c4o8c0nmm4rnk9dgdrnshhsqhkir5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxLgP7HCOVgVgwgVSc95Wq6iK49RNlml0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641867859798-11c4o8c0nmm4rnk9dgdrnshhsqhkir5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
